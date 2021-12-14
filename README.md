@@ -1,5 +1,8 @@
 # Simple Scanner Network Scanner 
 
+***main.py needs to be ran with python3 in a terminal with sudo privileges, running inside the terminal on VS Code, Pycharm will suffice.***
+***Running code within the programs themselves with the "Shift + f5 / f10" features will cause the program to fail***
+
 This is just a simple Project for School at the moment i will be adding
  more to this eventully with new features to capture names of the devices on 
  the network as well as make the Port Scanner more in depth. 
