@@ -11,8 +11,7 @@ This is just a simple Project for School at the moment i will be adding
  The Port scanner runs into a few snags when ran against things like Amazon FireSticks
  and Printers but when ran against a Computer or the Host it works as Advertised for now
 
-As of Dec 13, 2021, if you find any issues feel free to add them and throw them in or email
-me the fixed code and i will append it into the source. 
+As of Dec 13, 2021, if you find any issues feel free to add them
 
 This code is going to be riddled with bugs and was not designed with any security try/excepts. 
 
